@@ -1,0 +1,81 @@
+﻿{
+  "Metadata": {
+    "Id": "a9eb4eb2-2b70-4459-b7fe-5153396add33",
+    "Kind": "FormIo"
+  },
+  "DesignProperties": {
+    "Title": "NewForm",
+    "Theme": "Default",
+    "ShowInTaskbar": true,
+    "ShowMargin": true,
+    "CustomStyle": ""
+  },
+  "Data": {
+    "components": [
+      {
+        "label": "Buscar en",
+        "widget": "choicesjs",
+        "placeholder": "Buscar en la pagina web",
+        "tableView": true,
+        "data": {
+          "values": [
+            {
+              "label": "ADRES",
+              "value": "ADRES"
+            },
+            {
+              "label": "TODAS",
+              "value": "TODAS"
+            }
+          ]
+        },
+        "key": "vStrBuscarEn",
+        "type": "select",
+        "input": true
+      },
+      {
+        "label": "Tipo Documento",
+        "widget": "choicesjs",
+        "placeholder": "Tipo de documento",
+        "tableView": true,
+        "data": {
+          "values": [
+            {
+              "label": "CC",
+              "value": "CC"
+            },
+            {
+              "label": "TI",
+              "value": "TI"
+            },
+            {
+              "label": "CE",
+              "value": "CE"
+            }
+          ]
+        },
+        "key": "vStrTipoDocumento",
+        "type": "select",
+        "input": true
+      },
+      {
+        "label": "Numero Documento",
+        "placeholder": "Numero de documento",
+        "tableView": true,
+        "key": "vStrNumeroDocumento",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "BUSCAR",
+        "showValidations": false,
+        "disableOnInvalid": true,
+        "tableView": false,
+        "key": "submit",
+        "type": "button",
+        "saveOnEnter": false,
+        "input": true
+      }
+    ]
+  }
+}

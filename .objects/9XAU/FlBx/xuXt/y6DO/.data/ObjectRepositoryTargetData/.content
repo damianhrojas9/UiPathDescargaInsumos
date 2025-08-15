@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sbks4ZMGQkyfa2gI1Naptw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="adres.gov.co/consulte-su-eps" CVScreenId="7a6af37a-6fec-4586-be81-b6a08df483eb" CvElementArea="1072, 828, 260, 36" CvType="InputBox" DesignTimeRectangle="1075, 829, 255, 32" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='MSOPageViewerWebPart_WebPartWPQ3' tag='IFRAME' /&gt;&lt;webctrl id='Capcha_CaptchaTextBox' tag='INPUT' /&gt;" Guid="9afb507b-a956-4e06-bb8a-255a8c6dec77" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Consulte su EPS' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7a6af37a-6fec-4586-be81-b6a08df483eb" CvElementArea="1124, 878, 154, 31" CvTextArea="1163, 884, 75, 18" CvTextArgument="Consultar" CvType="Button" DesignTimeRectangle="1125, 879, 150, 28" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='MSOPageViewerWebPart_WebPartWPQ3' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='btnConsultar' tag='INPUT' type='submit' class='StandardButton' aaname='Consultar' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:text='Consultar' /&gt;" Guid="a0086f7c-7607-4291-8b9f-f1056d22c195" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9ecebbc4d4d3d008886c3263799d87b5.png" xmlns="">0GbCqPOh5kUGnGCGwIzvSkw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

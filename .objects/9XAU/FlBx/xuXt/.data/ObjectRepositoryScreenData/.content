@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="Xmfi_zzLmECZgWrVThsNMg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-11, -11, 1942, 1030" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAKxSURBVDhPjZLbSxRxFMfPPxA+6VMQRZQPFUVQ2FsPQmQPghSSBBbSFTIqJIly6PLURR8qKpAio4fooYfU1vtlV3fGHR3dy6zuunN1dne87EVdzdb9xkyw1kLQB35wfr9zvl8O5/yIChnj3uwURblB11fJ5dpLHs/HA6HQ6hlZilCXo6SwPA+j62fvRY2l+3Nz8GUyuKapIN4zeyISyQDAJUVBraKkiGVbC7VEgwOHHckkamRps1wUg2VBcYkmhSxxLITVFTTNzf28qWnLNzR1bTidAnmnpvNaRtf3kXv0HU1NfSZh4mE+MTT4vU6KoCoYFPO18fh+4riWIt7znpzDTflacjkDxLr31MqySrynlfz+ThIEB/EenJalbInf95UmJ9tKQzNakc/bQmPcMxoaLP/tqqkV5HK9GFtZ2bTci3le+ZZI4IIig0ZH0RyL4YFhoDFqoJjnu4njEqf8/iA5h5mtDnp7Hsc3NkBuN+pmZ3MUDGJwOY3tYgB3dR3MwgI+LS6CWHeOxsdx3RpwX29xXl8pCM+V9XVQdxfuRA08Mgy8MuOo11S8NU1cVBSs53IgnxeVgoDQ2hoYWd6VN6iYmHidA0AD/bb7l0TCPtu8XpSFw3Z8VVVxMBBAvSjCn8mAUdUdeQMaGblt7Zr6enFOVa3QZiidBmMYdtxkmjgf8OPpwgIcqdSPLbE1yFi0xiq6oig4yvMolyW0JxI4NhvGh/l5O25PJkGdHbZZYyym/WVg0ZNOLdtddLSjORZFMpvF7pkZHJmZRqOu42QkgifxmG1ALNtQqCcaHqqzkhvWsLxe0MQ4qlUFh4IiLuuafbd4GY+vFEq36O+rqZQkiTFNlVzOtluahtKA31ctSeEq65Nx7Gih5J8cD4dayOW0VplgTHN3Yf7/6O3RiWN7Cp//5BeFmgiy5HTOggAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='Consulte su EPS' /&gt;" Url="https://www.adres.gov.co/consulte-su-eps" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="ed2bb7156ec6aab8ffc36853b62441f9.jpg" xmlns="">0uX63ZDOCkkKACxm7yqakfQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

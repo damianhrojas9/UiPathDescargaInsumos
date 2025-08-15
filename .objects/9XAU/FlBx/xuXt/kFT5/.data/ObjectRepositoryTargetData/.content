@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rlK7DaweXEaD5m5NwT-cdg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="aplicaciones.adres.gov.co/bdua_internet/Pages/RespuestaConsulta.aspx" DesignTimeRectangle="34, 461, 1707, 62" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='P' /&gt;" Guid="763703df-7b06-43f0-b53f-0a73d06f72b3" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='menubar=yes,scrollbars=1,resizable=1' title='aplicaciones.adres.gov.co/bdua_internet/Pages/RespuestaConsulta.aspx?tokenId=5jVpVb6vHfgiuyHsb87HTw==' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b036a8e30296b69cd39a80d3f6e35e53.png" xmlns="">0aZqIF-59U0KcsGMZD0SO2A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

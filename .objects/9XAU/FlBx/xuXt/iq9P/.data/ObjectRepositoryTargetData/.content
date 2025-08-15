@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rU69uLUUjki4O91mwSuZEQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="aplicaciones.adres.gov.co/bdua_internet/Pages/RespuestaConsulta.aspx" CVScreenId="bb64fef6-11ed-4b71-92a4-ad1f11b9057c" CvTextArea="780, 977, 75, 18" CvTextArgument="IMPRIMIR" CvType="Text" DesignTimeRectangle="749, 976, 107, 20" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='A' /&gt;" Guid="978dbfea-5397-4286-a52b-4103431420ad" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='menubar=yes,scrollbars=1,resizable=1' title='aplicaciones.adres.gov.co/bdua_internet/Pages/RespuestaConsulta.aspx?tokenId=QX0tidiyhX13G/7L/QXEcw==' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f966940079b6c90e425597169c3133ee.png" xmlns="">075IBRCI1JkKbQ8xyjLAveg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

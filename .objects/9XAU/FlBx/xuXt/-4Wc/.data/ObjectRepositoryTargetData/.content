@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="C8t6xJ0Wj0yo0ZfKu98jVQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="aplicaciones.adres.gov.co/bdua_internet/Pages/RespuestaConsulta.aspx" DesignTimeRectangle="908, 722, 448, 25" ElementType="Text" FullSelectorArgument="&lt;webctrl id='GridViewBasica' tag='TABLE' /&gt;&lt;webctrl aaname='DATOS' tableRow='1' tag='TH' /&gt;" Guid="9d5bc5ea-0410-40e3-ae12-9c8604de62c8" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='menubar=yes,scrollbars=1,resizable=1' title='aplicaciones.adres.gov.co/bdua_internet/Pages/RespuestaConsulta.aspx?tokenId=TkoF/dS9TM6cHut3klsuVg==' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="70670dd909a93730d77b2c12799a934d.png" xmlns="">0hvK9WC7-0kqqZcMh-j8Lsw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

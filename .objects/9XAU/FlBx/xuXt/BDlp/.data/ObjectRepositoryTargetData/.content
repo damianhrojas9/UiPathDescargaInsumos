@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ki4eNiJzIU23JXXoN1S2zw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="adres.gov.co/consulte-su-eps" CVScreenId="c6efe9b4-f7af-43dd-9678-bd8c5cfaa703" CvElementArea="1074, 325, 255, 36" CvType="InputBox" DesignTimeRectangle="1077, 327, 250, 32" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='MSOPageViewerWebPart_WebPartWPQ3' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='txtNumDoc' tag='INPUT' type='text' class='txtBox' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="4cbf3022-52ff-47f9-a607-a70bbd4ca811" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Consulte su EPS' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c6efe9b4-f7af-43dd-9678-bd8c5cfaa703" CvTextArea="431, 327, 93, 22" CvTextArgument="Número:" CvType="Text" DesignTimeRectangle="432, 327, 225, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='MSOPageViewerWebPart_WebPartWPQ3' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='lbNumDoc' tag='SPAN' type='' class='label' aaname='Número:' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Número:' /&gt;" Guid="09cd3791-c5bf-404e-9f64-e21cd68ac1e1" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="54044dcf9581811e8400378f9eeac61f.png" xmlns="">0VASJJ2n-UkGAME9brG4A6w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

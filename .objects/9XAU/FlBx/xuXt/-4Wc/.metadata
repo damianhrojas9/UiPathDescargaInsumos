@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Resultados de la consul…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "-4WcYAEWs02HNXs-GVczLA",
+  "Reference": "2fst-uFCakCo29HhUOfs0w/-4WcYAEWs02HNXs-GVczLA",
+  "ParentRef": "2fst-uFCakCo29HhUOfs0w/xuXtTVVBkkuikVrO0t7iPw",
+  "Created": "2025-08-11T18:09:02.258551Z",
+  "Updated": "2025-08-11T18:09:02.258551Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

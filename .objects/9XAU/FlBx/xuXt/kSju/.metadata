@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Imprimir",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "kSjuG-cd90i3BA5evJrAWA",
+  "Reference": "2fst-uFCakCo29HhUOfs0w/kSjuG-cd90i3BA5evJrAWA",
+  "ParentRef": "2fst-uFCakCo29HhUOfs0w/xuXtTVVBkkuikVrO0t7iPw",
+  "Created": "2025-08-11T17:40:51.9261444Z",
+  "Updated": "2025-08-11T17:40:51.9261444Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

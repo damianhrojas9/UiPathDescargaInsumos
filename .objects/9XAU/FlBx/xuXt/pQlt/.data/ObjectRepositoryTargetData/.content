@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="v1tiqBL4uUm2BQOkKUY98A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="adres.gov.co/consulte-su-eps" CVScreenId="6ce5f224-d7d6-4046-92d4-f96697b10166" CvElementArea="1124, 878, 154, 31" CvTextArea="1163, 884, 75, 18" CvTextArgument="Consultar" CvType="Button" DesignTimeRectangle="1125, 879, 150, 28" ElementType="Button" FullSelectorArgument="&lt;webctrl id='MSOPageViewerWebPart_WebPartWPQ3' tag='IFRAME' /&gt;&lt;webctrl id='btnConsultar' tag='INPUT' /&gt;" Guid="42aeac40-5731-48a5-b600-8a5cdc525c21" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Consulte su EPS' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="50307d10d617e01f5592b06e2adfcb58.png" xmlns="">0r_QSTVJE9ESoREH70aTwvw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

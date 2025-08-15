@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ifop4iHWT0mpRm9rjcg-LA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="adres.gov.co/consulte-su-eps" DesignTimeRectangle="432, 790, 1305, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl id='MSOPageViewerWebPart_WebPartWPQ3' tag='IFRAME' /&gt;&lt;webctrl id='Capcha_CaptchaLinkButton' tag='A' /&gt;" Guid="ecde4ba5-3eec-4740-9fdb-afb5c2348eff" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Consulte su EPS' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4f45c422647316376983d7910cca1d37.png" xmlns="">0cgCjScX2p0yQ1lE5tRacEg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

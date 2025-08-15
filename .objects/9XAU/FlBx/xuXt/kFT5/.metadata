@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Iniciar sesión en Outlo…",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "kFT5JZN3TE-2aNCYdxn4Dg",
+  "Reference": "2fst-uFCakCo29HhUOfs0w/kFT5JZN3TE-2aNCYdxn4Dg",
+  "ParentRef": "2fst-uFCakCo29HhUOfs0w/xuXtTVVBkkuikVrO0t7iPw",
+  "Created": "2025-08-12T00:23:25.518153Z",
+  "Updated": "2025-08-12T00:23:25.518153Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

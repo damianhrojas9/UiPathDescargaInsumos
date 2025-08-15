@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT Capcha_CaptchaTex…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "y6DOEsbApUyzkCWSud8c6A",
+  "Reference": "2fst-uFCakCo29HhUOfs0w/y6DOEsbApUyzkCWSud8c6A",
+  "ParentRef": "2fst-uFCakCo29HhUOfs0w/xuXtTVVBkkuikVrO0t7iPw",
+  "Created": "2025-08-11T16:36:47.968138Z",
+  "Updated": "2025-08-11T16:36:47.968138Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

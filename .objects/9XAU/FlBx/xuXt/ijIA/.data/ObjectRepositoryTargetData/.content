@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZdIy4wyaPkulW4uNfykmZw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="adres.gov.co/consulte-su-eps" CVScreenId="8c65f4ad-dd5f-46d0-8a4f-b47c0b1fae46" CvElementArea="1072, 828, 260, 36" CvType="InputBox" DesignTimeRectangle="1075, 829, 255, 32" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='MSOPageViewerWebPart_WebPartWPQ3' tag='IFRAME' /&gt;&lt;webctrl id='Capcha_CaptchaTextBox' tag='INPUT' /&gt;" Guid="ac9645fb-cd3e-467d-b88b-ab9441372d9e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Consulte su EPS' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="992, 715, 420, 75" ElementType="Icon" FullSelectorArgument="&lt;webctrl id='MSOPageViewerWebPart_WebPartWPQ3' tag='IFRAME' /&gt;&lt;webctrl id='Capcha_CaptchaImageUP' tag='IMG' /&gt;" Guid="4abd1ea2-b0d4-4ace-a57f-97303160e4ec" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="dcc0a0f7ef290eab93db5275bf2d3e56.png" xmlns="">06SlhO3aqp0ik8ijU_eYAeQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
